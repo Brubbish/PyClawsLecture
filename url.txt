@@ -1,0 +1,25 @@
+#1
+西邮 http://www.xiyou.edu.cn/tzxx/xsxx.htm
+西邮网安 http://222.24.19.140/wnxy/web/category/11/1.html
+西电 https://www.xidian.edu.cn/jzbg.htm
+#2
+成电 https://news.uestc.edu.cn/?n=UestcNews.Front.CategoryV2.Page&CatId=66
+川大 https://www.scu.edu.cn/index/xx/xskb.htm
+西北工大 https://xygg.nwpu.edu.cn/xygg/xsdt.htm
+哈工大计院 http://today.hit.edu.cn/taxonomy/term/60/event?title=&category=5
+天大 http://www.tju.edu.cn/xsjz.htm
+#3
+南大计算机软件新技术国重 https://keysoftlab.nju.edu.cn/1578/list.htm
+天大智能与计算 http://cic.tju.edu.cn/byzslt.htm
+国科大 https://www.ucas.ac.cn/site/264
+国科大2 https://www.ucas.ac.cn/site/265
+上交网安 https://infosec.sjtu.edu.cn/Notice.aspx
+清华网研 https://www.insc.tsinghua.edu.cn/zxdt.htm
+
+//综合类
+厦大 https://news.xmu.edu.cn/tsfx/xshd.htm
+
+# 成电网安 https://www.scse.uestc.edu.cn/ztzl/xskb.htm
+# 川大网安 https://ccs.scu.edu.cn/xsjl.htm
+# 南大软院
+# baidu：title=讲座|学术|报告 site:edu.cn
